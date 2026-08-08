@@ -15,3 +15,7 @@ A small market sits near the town square.
 ## Forest
 
 A dense forest lies beyond the edge of Oakvale.
+
+## Tavern
+
+The Oak & Ember welcomes travelers.
