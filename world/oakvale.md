@@ -8,3 +8,7 @@ None yet.
 ## Castle
 
 Under construction.
+
+## Forest
+
+A dense forest lies beyond the edge of Oakvale.
