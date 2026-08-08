@@ -8,3 +8,7 @@ None yet.
 ## Castle
 
 Under construction.
+
+## Market
+
+A small market sits near the town square.
