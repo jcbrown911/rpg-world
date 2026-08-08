@@ -8,3 +8,7 @@ None yet.
 ## Castle
 
 Under construction.
+
+## River
+
+A river runs along the eastern edge of Oakvale.
