@@ -12,3 +12,6 @@ Under construction.
 ## Market
 
 A small market sits near the town square.
+## Forest
+
+A dense forest lies beyond the edge of Oakvale.
