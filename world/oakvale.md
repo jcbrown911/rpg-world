@@ -28,3 +28,8 @@ Ironforge Smithy serves the town of Oakvale.
 ## Library
 
 The Oakvale Library preserves the town's history.
+
+## Inn
+
+The Hearthstone Inn offers rooms to travelers.
+A warm common room serves meals each evening.
