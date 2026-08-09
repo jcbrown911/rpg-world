@@ -33,3 +33,7 @@ The Oakvale Library preserves the town's history.
 
 The Hearthstone Inn offers rooms to travelers.
 A warm common room serves meals each evening.
+
+## Stables
+
+Oakvale Stables provides horses for travelers.
