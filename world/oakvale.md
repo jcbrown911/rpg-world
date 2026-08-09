@@ -24,3 +24,7 @@ The Oak & Ember welcomes travelers.
 ## Blacksmith
 
 Ironforge Smithy serves the town of Oakvale.
+
+## Library
+
+The Oakvale Library preserves the town's history.
