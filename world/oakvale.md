@@ -32,6 +32,11 @@ The Oakvale Library preserves the town's history.
 ## Inn
 
 The Hearthstone Inn offers rooms to travelers.
+
+## Fountain
+
+A stone fountain stands in the center of Oakvale.
+
 A warm common room serves meals each evening.
 
 ## Stables
