@@ -41,3 +41,7 @@ Oakvale Stables provides horses for travelers.
 ## Fountain
 
 A stone fountain stands in the center of Oakvale.
+
+## Watchtower
+
+A watchtower overlooks the northern road into Oakvale.
